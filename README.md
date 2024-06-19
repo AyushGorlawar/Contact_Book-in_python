@@ -30,6 +30,6 @@ The Contact Book is a Python application that allows users to manage their conta
 - Follow the on-screen prompts to interact with the Contact Book.
 
 ## Output
-![Output1]()
-![Output2]()
-![Output3]()
+![Output1](https://github.com/AyushGorlawar/CODSOFT_Task05/blob/main/Out1.png)
+![Output2](https://github.com/AyushGorlawar/CODSOFT_Task05/blob/main/Out2.png)
+![Output3](https://github.com/AyushGorlawar/CODSOFT_Task05/blob/main/Out3.png)
