@@ -1,6 +1,5 @@
-# CODSOFT_Task05
 
-#Contact Book
+# Contact Book
 
 ## Overview
 The Contact Book is a Python application that allows users to manage their contacts by storing names, phone numbers, emails, and addresses. Users can add, view, search, update, and delete contacts. The application features a user-friendly interface for easy interaction.
